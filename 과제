@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>who is youngchae?</title>
+<p>
+         <center><font color = violet><font size = 10>
+        Welcome to <em>young-chae</em>'s website!
+       </font></font></center>
+      </p>
+<body>
+<font color = yellow> Do you have your own web site? </font>
+<input type="radio" name="answer" value="yes"> Yes, I have.
+<input type="radio" name="answer" value="no"> No, I have not.
+<p> i just made my own website because i learned <i>web design class</i>.   Any way, I introduce myself right now!
+</p>
+
+<p><font size = 18> My favorite chacacter is...</font></p>
+<p><img src = "dora.jpg"> <img src = "bbang.jpg"></p>
+<p>I like DORAEMON very much. Because Doraemon is really cute.Doraemon is a Japanese manga series written and illustrated by the manga writing team Fujiko Fujio. The series has also been adapted into a successful anime series and media franchise. The story revolves around a robotic cat named Doraemon, who travels back in time from the 22nd century to aid a pre-teen boy named Nobita Nobi.</p>
+<font color = yellow>What chacacter do you <em>love</em>?</font>
+<select><option value="select">hello kitty</option>
+<option value="select">rilakkuma</option>
+<option value="select">my melody</option>
+<option value="select">Donald and daisy duck</option></select>
+
+<p><font size = 18> My hobby is...</font></p>
+<img src = "re.jpg">
+<p>listening to music! I really like <em>Rihanna and Eminem</em>. the music what i like is "love the way you lie". below i hanging a link, enjoy it!</p>
+<ul>
+	<li> <a href =https://www.youtube.com/watch?v=uelHwf8o7_U> Love the way you lie </a></li>
+</ul>
+
+<p><font color = yellow> What hobby do you have? </p></font>
+<p><input type='checkbox'><label>watching movie</label></p>
+<p><input type="checkbox"><label>dancing</label></p>
+<p><input type="checkbox"><label>go to singing room</label></p>
+<p><input type="checkbox"><label>learning chinese</label></p>
+<p><input type="checkbox"><label>etc.</label></p>
+
+<p><font size = 16> And i want to communicate with you!</font></p>
+I frequently using facebook and instagram. GO to the link and click the button that means 'friend with me'.
+<ul>
+	<li><a href="https://www.facebook.com/"> enjoy facebook with me</a></li>
+	<li><a href="https://www.instagram.com/"> log in your insta!</a></li>
+</ul>
+
+</body>
+</head>
+</html>
